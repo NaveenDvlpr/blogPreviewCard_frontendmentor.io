@@ -6,7 +6,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/NaveenDvlpr/blogPreviewCard_frontendmentor.io
+- Live Site URL: https://blogpreviewbynaveenmoyya.netlify.app/
 
 ## My process
 
